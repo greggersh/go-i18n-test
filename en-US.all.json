@@ -2,5 +2,9 @@
   {
     "id": "hello_world",
     "translation": "Hello, World!"
+  },
+  {
+    "id": "fallback",
+    "translation": "Fallback!"
   }
 ]
