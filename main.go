@@ -1,7 +1,9 @@
 package main
 
-import "github.com/nicksnyder/go-i18n/i18n"
-import "fmt"
+import (
+	"fmt"
+	"github.com/nicksnyder/go-i18n/i18n"
+)
 
 func main() {
 	i18n.MustLoadTranslationFile("en-US.all.json")
